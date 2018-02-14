@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Adivina la imagen game</string>
+    <string name="tu_lo_sabes">Tu lo sabes?</string>
+    <string name="adivina">ADIVINA</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="jugar">JUGAR</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="acerca_de">ACERCA DE</string>
+    <string name="puntuaci_n_mas_alta">Puntuación mas alta</string>
+    <string name="ingrese_el_nombre">Ingrese el nombre</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="By">Hecho por:</string>
+    <string name="creador">Danilo</string>
+    <string name="maxpuntuacion">Maxima puntuación</string>
+    <string name="imagenaleatoria">imagenaleatoria</string>
+    <string name="correcto">Correcto</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string name="vidainicial">Vidas: 3</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="charizard">Charizard</string>
+    <string name="gengar">Gengar</string>
+    <string name="black">Black</string>
+    <string name="articuno">Articuno</string>
+    <string name="shikamaru">Shikamaru</string>
+    <string name="hinata">Hinata</string>
+    <string name="gohan">Gohan</string>
+    <string name="asuma">Asuma</string>
+</resources>
