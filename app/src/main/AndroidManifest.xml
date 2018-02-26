@@ -17,8 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".jugar" />
-        <activity android:name=".Main2Activity" />
-        <activity android:name=".Ayuda"></activity>
+        <activity android:name=".Ayuda" />
+        <activity android:name=".Acerca"></activity>
     </application>
 
 </manifest>
